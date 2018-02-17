@@ -3,4 +3,4 @@
 - [ ] Science
 - [x] Art
 
-[My work] (./HelloWorld.md)
+[My work](./HelloWorld.md)
